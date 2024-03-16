@@ -1,5 +1,5 @@
 {
-  "env": { "node": true },
+  "env": { "node": false },
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
   "parserOptions": {
